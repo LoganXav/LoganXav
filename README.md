@@ -1,4 +1,4 @@
-[![MasterHead](https://media.tenor.com/PfwqKNNydVEAAAAC/welcome.gif)](https://logan-bay.vercel.app/)
+
 <h1 align="center">Hi 👋, I'm Segun</h1>
 <h3 align="center">A software developer from Nigeria</h3>
 <img align="center" alt= "codig" width="400" src="https://raw.githubusercontent.com/gist/obernardovieira/f4ec9b75736a98be5f6198f5ae40b897/raw/2546374e14122f5c0a8c7cc0c49edd07bf5d14cd/dev.gif" />
