@@ -9,8 +9,6 @@
 
 - 👨‍💻 Checkout my web developer portfolio [https://logan-bay.vercel.app/](https://logan-bay.vercel.app/)
 
-- 📝 I often write articles on [https://wild-book.vercel.app/](https://wild-book.vercel.app/)
-
 - 💬 Ask me about **Software engineering - Reactjs, Nodejs, Python, C++**
 
 - 📫 How to reach me **sogbesansegun22@gmail.com**
