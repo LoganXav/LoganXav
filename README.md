@@ -1,18 +1,7 @@
 
-<h1 align="center">Hi 👋, I'm Segun</h1>
-<h3 align="center">A software developer from Nigeria</h3>
+<h1 align="center"> I'm Timilehin</h1>
+<h3 align="center">A Frontend Engineer</h3>
 <img align="center" alt= "codig" width="400" src="https://raw.githubusercontent.com/gist/obernardovieira/f4ec9b75736a98be5f6198f5ae40b897/raw/2546374e14122f5c0a8c7cc0c49edd07bf5d14cd/dev.gif" />
-
-- 🔭 I’m currently working on [Steex - An open-source LMS](https://steex.vercel.app/)
-
-- 🌱 I’m currently learning **System design.**
-
-- 👨‍💻 Checkout my web developer portfolio [https://logan-bay.vercel.app/](https://logan-bay.vercel.app/)
-
-- 💬 Ask me about **Software engineering - Reactjs, Nodejs, Python, C++**
-
-- 📫 How to reach me **sogbesansegun22@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ssegun_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ssegun_" height="30" width="40" /></a>
